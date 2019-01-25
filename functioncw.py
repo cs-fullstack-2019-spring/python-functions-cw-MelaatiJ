@@ -69,7 +69,7 @@ def userOperation(userNumberone, userNumbertwo):
         return (f"{userNumberone} + {userNumbertwo} = {userNumberone + userNumbertwo}")
     elif userOperationinput.lower() == "subtract":
         return (f"{userNumberone} - {userNumbertwo} = {userNumberone - userNumbertwo}")
-    elif userOperationinput.lower() == "multiply":
+    elif userOperationinput.lower() == "multipYYly":
         return (f"{userNumberone} * {userNumbertwo} = {userNumberone * userNumbertwo}")
     elif userOperationinput.lower() == "divide":
         return (f"{userNumberone} / {userNumbertwo} = {userNumberone / userNumbertwo}")
